@@ -1,0 +1,29 @@
+body{
+  background-image: linear-gradient(#eba83a, #fff5ab);
+  background-repeat: no-repeat;
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: #996633;
+    border-width: 5px;
+    width: 10%;
+}
+
+h1{
+  color: #996633;
+}
+
+h3{
+  color: #996633;
+}
+
+table {
+       border-style: none;
+}
+
+div {
+  height: 100%;
+  width: max-content;
+  margin: 200px auto 200px auto;
+}
